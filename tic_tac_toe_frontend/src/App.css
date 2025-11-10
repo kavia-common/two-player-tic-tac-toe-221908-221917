@@ -133,6 +133,18 @@
   place-items: center;
 }
 
+/* Mode selector */
+.t3-mode-selector {
+  margin-top: 12px;
+  display: inline-flex;
+  gap: 8px;
+}
+.t3-mode-details {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .t3-button {
   border: none;
   background: var(--color-surface);
